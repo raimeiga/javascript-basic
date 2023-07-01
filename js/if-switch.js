@@ -20,3 +20,13 @@ console.log(num);
 if (num === 4) {
   console.log('大当たりです');
 }
+
+//変数numの値が３であれば、「当たりです」という文字列を出力する
+else if (num === 3) {
+  console.log('当たりです');
+}
+
+// それ以外のときは、「はずれです」という文字列を出力する
+else {
+  console.log('はずれです');
+}
