@@ -12,3 +12,4 @@ userNames[5] = '侍五郎';
 
 // 配列の値を出力する
 console.log(userNames);
+console.log(userNames[2]);
