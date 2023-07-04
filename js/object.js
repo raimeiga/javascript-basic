@@ -13,4 +13,5 @@ personalDate.adress = '東京都';
 // オブジェクトの値を出力する
 console.log(personalDate);
 
+// 'gender'というキーの値を出力する
 console.log(personalDate.gender);
